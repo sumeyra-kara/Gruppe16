@@ -16,9 +16,5 @@ public class BasitIfStatements {
             System.out.println("Girilen sayi 5'in tam kati");
         }
 
-
-
-
-
     }
 }
